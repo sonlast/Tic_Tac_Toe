@@ -1,0 +1,11 @@
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\bin\Debug\Mind Boosting Tic Tac Toe Game.exe.config
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\bin\Debug\Mind Boosting Tic Tac Toe Game.exe
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\bin\Debug\Mind Boosting Tic Tac Toe Game.pdb
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind_Boosting_Tic_Tac_Toe_Game.Form1.resources
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind_Boosting_Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.exe
+C:\Users\MyLaptop\source\repos\Mind Boosting Tic Tac Toe Game\Mind Boosting Tic Tac Toe Game\obj\Debug\Mind Boosting Tic Tac Toe Game.pdb
